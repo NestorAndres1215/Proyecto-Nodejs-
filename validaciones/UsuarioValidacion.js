@@ -44,4 +44,4 @@ function verificarTelefono(telefono) {
         });
     });
 }
-module.exports = { getMaxUlCodigo, verificarUsuario,verificarCorreo,verificarTelefono };
+module.exports = { getMaxUlCodigo, verificarUsuario, verificarCorreo, verificarTelefono };
